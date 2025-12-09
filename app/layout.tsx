@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   description: "The finest chandeliers and lamps to illuminate your home with elegance",
   generator: 'v0.app',
   icons: {
-    icon: "https://cdn-icons-png.flaticon.com/512/2553/2553642.png",
+    icon: "/gold-modern-chandelier.jpg",
   },
 }
 
